@@ -1,2 +1,11 @@
 # CS255
-My CS255 Portfolio
+My CS255 Portfolio Reflection
+  The DriverPass project focused on designing a software system to improve the driver’s education experience. The client, DriverPass, wanted a platform to help new drivers schedule lessons, access online practice tests, and track their progress. The system also needed to support administrative tasks, such as managing user accounts and integrating updates from the DMV. This project emphasized user-friendly functionality and streamlined processes for both customers and staff.
+
+  One thing I feel I did particularly well was clearly defining the system’s functional and nonfunctional requirements in the business requirements document. I ensured that the client’s needs were accurately captured, which laid a strong foundation for the system design phase. The focus on security measures, adaptability, and user roles was especially important for meeting the client's goals.
+
+  If I could revise one part of my work, I would enhance the visual elements in the system design document. Adding mockups or wireframes could make the design more tangible and easier for stakeholders to visualize. These visual aids would also serve as a helpful reference for developers during implementation. To interpret the user’s needs, I carefully analyzed the interview transcript and incorporated the client’s feedback into both the business requirements and system design documents. Understanding their goal to improve driver education accessibility guided decisions about features like online scheduling and multi-platform compatibility. Addressing user needs is critical in system design because it ensures the solution is functional, relevant, and user-friendly. Ignoring these needs could lead to a system that fails to achieve its purpose.
+
+  When designing software, I use a structured and collaborative approach. I start with requirements gathering, followed by detailed analysis and iterative feedback. Techniques like creating data flow diagrams and wireframes help clarify the design. In the future, I’d like to incorporate user testing earlier in the design process to validate assumptions and refine the system before development begins.
+
+  This project was a valuable learning experience, and the documents I’m including in my portfolio demonstrate my ability to analyze client needs and design practical solutions. These skills are essential for my career goal of becoming a software developer or pursuing a related role in tech.
